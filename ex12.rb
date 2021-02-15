@@ -9,4 +9,4 @@ another = gets.chomp
 number = another.to_i
 
 smaller = number/100
-puts "A smaller number is #{smaller}."
+puts "A smaller number is #{smaller}."rb
